@@ -4,8 +4,6 @@ This repository contains code for:
 [Shared Interest: Measuring Human-AI Alignment to Identify Recurring Patterns in Model Behavior](https://arxiv.org/abs/2107.09234)  
 Authors: [Angie Boggust](http://angieboggust.com/), [Benjamin Hoover](https://www.bhoov.com/), [Arvind Satyanarayan](https://arvindsatya.com/), and [Hendrik Strobelt](http://hendrik.strobelt.com/)
 
-See the example notebook!
-
 Shared Interest is a method to quantify model behavior by comparing human and model decision making. In Shared Interest, human decision is approximated via ground truth annotations and model decision making is approximated via saliency. By quantifying each instance in a dataset, Shared Interest can enable large-scale analysis of model behavior.
 
 ## Using Shared Interest
