@@ -27,3 +27,6 @@ Requirements are listed in `requirements.txt`. Install via:
 ### Step 4: Use Shared Interest to analyze model behavior.
 See [notebook](https://github.com/mitvis/shared-interest/blob/main/shared_interest/examples/shared_interest_example.ipynb) for example usage!
 
+## Running Shared Interest on ImageNet
+The ImageNet file structure is incompatable with PyTorch's ImageFolder Dataset. To convert the ImageNet file structure see [`imagenet_download_util/`](https://github.com/mitvis/shared-interest/blob/main/imagenet_download_util).
+
