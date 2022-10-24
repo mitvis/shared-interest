@@ -5,7 +5,9 @@ Shared Interest is built on Pytorch. Pytorch has a class of functions called Dat
 
 **For ImageNet downloaded from the [ImageNet website](https://www.image-net.org/index.php)** use [`imagefolder_structure_from_imagenet.ipynb`](https://github.com/mitvis/shared-interest/blob/main/imagenet_download_util/imagefolder_structure_from_imagenet.ipynb).
 
-After running this script, your `imagenet` directory will be formatted as follows:
+**For ImageNet downloaded from [Kaggle](https://www.kaggle.com/c/imagenet-object-localization-challenge/overview/description)** use [`imagefolder_structure_from_kaggle.ipynb`](https://github.com/mitvis/shared-interest/blob/main/imagenet_download_util/imagefolder_structure_from_kaggle.ipynb).
+
+After running one of these scripts, your `imagenet` directory will be formatted as follows:
 ```
 imagenet
 |
