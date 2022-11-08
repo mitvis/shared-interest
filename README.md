@@ -17,7 +17,7 @@ pip install -e git+https://github.com/mitvis/shared-interest.git#egg=shared_inte
 ```
 
 ### Step 2: Install interpretability methods (optional).
-Shared Interest relies on saliency methods to compute model behavior. The examples within this repo rely on the repo [`interpretability_methods`](https://github.mit.edu/aboggust/interpretability_methods). If you are planning to run the example notebook as is, then install the `interpretability_methods`. Otherwise, you can skip this step.  
+Shared Interest relies on saliency methods to compute model behavior. The examples within this repo rely on the repo [`interpretability_methods`](https://github.com/aboggust/interpretability-methods). If you are planning to run the example notebook as is, then install the `interpretability_methods`. Otherwise, you can skip this step.  
 ```pip install git+https://github.com/aboggust/interpretability-methods.git```
 
 ### Step 3: Install the requirements.
